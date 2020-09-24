@@ -1,0 +1,25 @@
+{
+  "name": "encabezados",
+  "version": "1.0.0",
+  "description": "encabeados",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellyco2019/encabezados.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "kely",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellyco2019/encabezados/issues"
+  },
+  "homepage": "https://github.com/kellyco2019/encabezados#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
